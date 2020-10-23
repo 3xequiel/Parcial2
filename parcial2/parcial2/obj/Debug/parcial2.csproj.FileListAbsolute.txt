@@ -1,0 +1,9 @@
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\bin\Debug\parcial2.exe.config
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\bin\Debug\parcial2.exe
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\bin\Debug\parcial2.pdb
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.csprojResolveAssemblyReference.cache
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.Form1.resources
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.csproj.GenerateResource.Cache
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.exe
+c:\users\windows10\documents\visual studio 2015\Projects\parcial2\parcial2\obj\Debug\parcial2.pdb
